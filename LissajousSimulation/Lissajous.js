@@ -57,7 +57,7 @@ function drawOnCurve(wlOne, wlTwo, wlThree){
     beginShape();
     for(var i=0; i < pointCount; i++){
         //to see the curves, comment out this line
-        background(bkgdColor); //reset so it looks like circle is moving
+        //background(bkgdColor); //reset so it looks like circle is moving
 
         angle = (i / wlOne) * TWO_PI;
         var y = cos(angle)* amplitude;
