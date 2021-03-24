@@ -1,10 +1,8 @@
 /*
-Week 6 Homework, Abra White
+Abra White
+Febrary 2021
 
-Using the transformation functions (translate(x,y), rotate(angle), and/or scale(x,y)) 
-create a sketch with animated, spiralling shapes. Your sketch must incorporate a color 
-palette of interpolated colors using lerpColor(). To successfully complete this assignment, 
-you must use at least two of the three transformation functions.
+All rights reserved
 */
 
 function setup(){

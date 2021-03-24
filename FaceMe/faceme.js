@@ -1,10 +1,6 @@
 //Abra White
-//Week 5 Homework
-
-
-//Using your own custom function, draw a character (animal, person, etc.). 
-//Your character function must use function arguments, allowing you to pass in:
-//positionX, positionY, characterWidth, characterHeight, and characterColor properties.
+//February 2021
+//All rights reserved
 
 
 //generates a black screen that will generate faces of random color and size at point where mouse is clicked

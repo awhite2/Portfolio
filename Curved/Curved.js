@@ -2,9 +2,7 @@
 Abra White
 March 2021
 
-
-Create a Particle System using custom Javascript Objects (ES6 class notation). 
-Your Particle object must contain the following properties: position, size, color, speed.
+all rights reserved
 
 based on the De Jong iterative system
 

@@ -1,6 +1,5 @@
-//Create a sketch that moves multiple shapes along Lissajous curves. 
-//In addition to animating the shapes’ x and y positions, 
-//use the sin() and cos() functions to animate their fill and/or stroke colors.
+/*Abra White
+2021, all rights reserved*/
 
 var waveLengthOne;
 var waveLengthTwo;

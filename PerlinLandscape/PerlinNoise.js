@@ -1,8 +1,7 @@
 /*
     Abra White
     March 2021
-    Homework 9 
-    DOM
+    All rights reserved
 
     Generates a mountain terrain landscape animation
     sliders affect:

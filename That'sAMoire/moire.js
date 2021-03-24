@@ -1,3 +1,8 @@
+/* Abra White
+2021, all rights reserved
+
+Basic example of the moire effect*/
+
 function setup() {
 	createCanvas(600, 600);
 	
