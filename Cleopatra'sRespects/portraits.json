@@ -1,0 +1,40 @@
+{
+    "portraits" : [
+        {
+            "name": "Angelica_Kauffman.png", 
+            "posx" : 490,
+            "posy" :  385, 
+            "landscape": "false"
+        },
+        {"name": "Anne_Seymour_Damer.png", 
+            "posx" : 235,
+            "posy" :  85, 
+            "landscape": "true"
+        },
+        {"name": "Artemisia_Gentileschi.png", 
+            "posx" : 1100,
+            "posy" :  520, 
+            "landscape": "true"
+        },
+        {"name": "Edmonia_Lewis.png", 
+            "posx" : 283,
+            "posy" :  139, 
+            "landscape": "false"
+        },
+        {"name": "Elisabetta_Sirani.png", 
+            "posx" : 290,
+            "posy" :  260, 
+            "landscape": "true"
+        },
+        {"name": "Lavinia_Fontana.png", 
+            "posx" : 280,
+            "posy" :  350, 
+            "landscape": "false"
+        },
+        {"name": "Margaret_Foley.png", 
+            "posx" : 280,
+            "posy" :  410, 
+            "landscape": "false"
+        }
+]
+}
