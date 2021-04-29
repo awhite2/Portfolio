@@ -13,13 +13,13 @@ let fr = 9;
 function preload(){
 	//load animations and add to the sprites
 	dadSprite = createSprite(0, 0, 400, 400);
-	dadSprite.addAnimation("hips", loadAnimation("assets/Hips001.png","Hips004.png"));
+	dadSprite.addAnimation("hips", loadAnimation("Hips001.png","Hips004.png"));
 	labels.push("hips");
-	dadSprite.addAnimation("toes", loadAnimation("assets/Toes001.png","Toes004.png"));
+	dadSprite.addAnimation("toes", loadAnimation("Toes001.png","Toes004.png"));
 	labels.push("toes");
-	dadSprite.addAnimation("step", loadAnimation("assets/Step001.png","Step004.png"));
+	dadSprite.addAnimation("step", loadAnimation("Step001.png","Step004.png"));
 	labels.push("step");
-	dadSprite.addAnimation("disco", loadAnimation("assets/Untitled_Artwork-1.png","Untitled_Artwork-2.png"));
+	dadSprite.addAnimation("disco", loadAnimation("Untitled_Artwork-1.png","Untitled_Artwork-2.png"));
 	labels.push("disco");
 	dadSprite.changeAnimation("hips");
 }
