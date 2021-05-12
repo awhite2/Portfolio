@@ -16,17 +16,17 @@ Morte di Cleopatra by Elisabetta Sirani (mid 1600s)
 Cleopatra the Alchemist by Lavinia Fontana (1605)
 Cleopatra by Margaret Foley (1876)
 
+Interaction:
 Each time the mouse is clicked a new collage centered around one of these portraits is generated.
+Moving mouse acress the screen changes tree color.
 
+Artistic Choices:
 A flower is selected and placed over her heart.
 Playing on the idea of collage, an animated Barnsley fern is generated, using a collage theorem IFS.
 As Cleopatra was sometimes depicted as Isis (the Egyptian moon goddess) in Egyptian art, a moon is place behind her.
 The original artist's name is prominently displayed.
 The palm tree changes from a dead yellow color to a lush green depending on the mouse position.
 The colors of the shapes are selected from a palette based on the original artwork.
-
-Course concepts explored: images, looping, data(JSON), functions, interactons, transformation, 
-color, arrays, typography, animation, conditonals
 
 Images used were all public domain, or free to use through a creative commons license
 */
