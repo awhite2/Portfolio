@@ -46,7 +46,7 @@ let fern2;
 
 function preload() {
 	//load data for portraits from json
-	let json = loadJSON('portraits.json',
+	let json = loadJSON('assets/portraits.json',
 		loadPortraits,
 		function() {
 			print("err")
@@ -54,14 +54,14 @@ function preload() {
 
 	//load flower images
 	for (let i = 1; i < 7; i++) {
-		flowers.push(loadImage("flower" + i + ".png"));
+		flowers.push(loadImage("assets/flower" + i + ".png"));
 	}
 	//load moon images
 	for (let i = 1; i < 6; i++) {
-		moons.push(loadImage("moon" + i + ".png"));
+		moons.push(loadImage("assets/moon" + i + ".png"));
 	}
 	//load tree
-	tree = loadImage('palm_tree_drawing.png');
+	tree = loadImage('assets/palm_tree_drawing.png');
 }
 
 

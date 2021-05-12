@@ -9,7 +9,7 @@ class Portrait {
 	constructor(path, posx, posy, landscape) {
 		this.image = loadImage(path);
 		//artist name
-		this.name = path.replaceAll("_", " ").slice(0, path.length - 4).toUpperCase();
+		this.name = path.replaceAll("_", " ").slice(6).slice(0, path.length - 4).toUpperCase();
 		this.scale = 1;
 		//positon of heart
 		this.heart = createVector(posx, posy);
