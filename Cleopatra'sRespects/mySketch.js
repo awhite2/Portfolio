@@ -46,7 +46,7 @@ let fern2;
 
 function preload() {
 	//load data for portraits from json
-	let json = loadJSON('assets/portraits.json',
+	let json = loadJSON('portraits.json',
 		loadPortraits,
 		function() {
 			print("err")
