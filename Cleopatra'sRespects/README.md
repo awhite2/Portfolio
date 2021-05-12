@@ -51,3 +51,4 @@ Refactoring and architecture changes needed
 Running this locally will create errors loading files. Must be run off of a server. 
 
 &copy; Abra White, all rights reserved
+This work is licensed under CC BY-NC 4.0
