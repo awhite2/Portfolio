@@ -48,6 +48,8 @@ Images used were all public domain, or free to use through a creative commons li
 [Issue 1](http://www.github.com/awhite2/Portfolio/issues/1)
 Refactoring and architecture changes needed
 
+[Live Demo](https://abra-white-portfolio.netlify.app/cleopatra'srespects/)
+
 Running this locally will create errors loading files. Must be run off of a server. 
 
 &copy; Abra White, all rights reserved
